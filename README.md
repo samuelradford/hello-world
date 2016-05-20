@@ -1,5 +1,4 @@
 # hello-world
-First GitHub repository test
 
 I am new to GitHub and really want to expand my developer knowledge.
 I have beginner experience with:
